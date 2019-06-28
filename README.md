@@ -10,9 +10,8 @@ Steps to Run this Repo.
 
 -------------------------------------------
 npm init
-(Fill up details and click on Enter)
 
-npm install --save express ejs multer
+sudo npm install --save express ejs multer
 
 npm install -g nodemon
 -------------------------------------------
